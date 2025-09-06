@@ -38,14 +38,6 @@ An **interactive Power BI dashboard** analyzing supermarket sales data from **20
 
 ---
 
-## 📸 Dashboard Preview
-
-| Dashboard Page 1 | Dashboard Page 2 |
-|------------------|------------------|
-| ![Page 1](https://drive.google.com/file/d/1fKz5q_m5h9nFmAZ8R6qId-5ekBsowf2X/view) | ![Page 2](https://drive.google.com/file/d/1WogG9EDFEJEjUvdrM0c2Yw6tqK6weZX4/view) |
-
----
-
 ## 🛠 Tools & Technologies
 - **Power BI Desktop** – Dashboard development and forecasting.
 - **Data Modeling** – Measures, relationships, and calculated fields for KPIs.
